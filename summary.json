@@ -1,0 +1,5 @@
+100: (66, ['py', 'py-tpl', 'html']
+1000: (1074, ['svg', 'js', 'py-tpl', 'mo', 'xml', 'html', 'pyc', 'txt', 'po', 'css', 'py', 'kml']
+10000: (2402, ['svg', 'license', 'js', 'py-tpl', 'md', 'mo', 'po', 'pyc', 'txt', 'html', 'css', 'py']
+100000: (665, ['js', 'mo', 'po', 'pyc', 'txt', 'gz', 'html', 'woff', 'css', 'py']
+1000000: (5, ['js', 'py']
