@@ -1,0 +1,7 @@
+1, my_project
+11, settings
+111, app
+111, dev
+11, mainapp
+11, adminapp
+11, authapp
