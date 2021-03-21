@@ -25,9 +25,9 @@ class MyClothes(Clothes):
     @property
     def my_coat(self):
         quantity = self.v / 6.5 + 0.6
-        print(f'Для пошива пальто нужно {quantity} м ткани')
+        print(f'Для пошива пальто нужно {quantity:.2f} м ткани')
         return quantity
 
 
 cloth = MyClothes(9, 1.75)
-print(f'Для пошива пальто и костюма нужно {cloth.my_suit + cloth.my_coat} м ткани')
+print(f'Для пошива пальто и костюма нужно {(cloth.my_suit + cloth.my_coat):.2f} м ткани')
